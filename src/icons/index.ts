@@ -16,6 +16,9 @@ import { ReactComponent as FileIcon } from "./file.svg?react";
 import { ReactComponent as DownloadIcon } from "./download.svg?react";
 import { ReactComponent as ArrowRightIcon } from "./arrow-right.svg?react";
 import { ReactComponent as GroupIcon } from "./group.svg?react";
+import { ReactComponent as EmployeeIcon } from "./employee.svg?react";  
+import { ReactComponent as AccountingIcon } from "./accounting.svg?react"; 
+import { ReactComponent as PaymentsIcon } from "./payments.svg?react"; 
 import { ReactComponent as BoxIconLine } from "./box-line.svg?react";
 import { ReactComponent as ShootingStarIcon } from "./shooting-star.svg?react";
 import { ReactComponent as DollarLineIcon } from "./dollar-line.svg?react";
@@ -108,4 +111,6 @@ export {
   HorizontaLDots,
   ChevronUpIcon,
   ChatIcon,
-};
+  EmployeeIcon,
+  PaymentsIcon,
+  AccountingIcon};
